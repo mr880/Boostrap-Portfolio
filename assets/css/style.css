@@ -1,0 +1,201 @@
+.footer{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    background-color: #939393;
+    text-align:center;
+    padding:40px;
+    border-top:5px solid #4aaaa5;
+    bottom:-300px;
+    margin: 100px 0 0;
+}
+
+#bootstrap-override{
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 0;
+    font-family: arial;
+}
+
+.img-thumbnail{
+  max-width: 210px;
+  max-height: auto; 
+  border:0px;
+  padding-right:10px;
+  margin-right:20px
+  border-bottom:10px;
+}
+
+body{
+  background: url("../images/Wallpaper.jpg") repeat;
+  /*max-width: 960px;*/
+}
+
+p{
+  font-family:Arial;
+  font-size:16px;
+  color:#777777;
+  line-height:25px;
+  margin: 0 25px 10px;
+}
+
+#p1{
+  margin: -10px 0 9px;
+
+}
+
+.text-muted{
+  color:#ecebeb;
+  font-size:11px;
+  font-family:Garamond;
+}
+
+.pull-left{
+  font-family:Arial;
+  font-size:17px;
+  color:#777777;
+}
+
+#override{
+    color: #4aaaa5;
+    font-family: Garamond;
+    font-weight: bold;
+    font-size: 24px;
+    position: relative;
+    top: 9px;
+    left: 6px;
+  
+}
+
+.page-header{
+    border-bottom: 3px solid #eee;
+    margin: 10px 23px 20px;
+}
+
+#name{
+    font-family: Garamond;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left:30%;
+    border-right:10px;
+    font-size:25px;
+    width:162px;
+}
+
+.navbar-default{
+    background-color: #ffffff;
+    border-bottom-width:2px;
+    border-top:0px;
+    border-color:#dddddd;
+}
+
+#adjust{
+    background-color: #ffffff;
+    margin-left: 82px;
+    margin-top: 21px;
+    padding-left: 11px;
+    padding-bottom: 37px;
+
+}
+
+.col-md-10{
+  padding-left:40px;
+  word-wrap:;
+}
+
+.panel{
+  border: 1px solid #eee;
+  border-radius:0px;
+
+}
+
+.panel-title{
+
+    font-size: 20px;
+    font-family: Garamond;
+    font-weight: bold;
+    color: #4aaaa5;
+    text-align: center;
+    padding-top: 11px;
+    margin-bottom: -9px;
+  
+}
+
+.panel-body{
+  padding-bottom: 9px;
+  padding-top:0px;
+  padding-right:15px;
+  padding-left:14px;
+}
+
+.col-md-4{
+  position:relative;
+  padding-right:84px;
+  padding-left:15px;
+  margin-top:21px;
+}
+
+.logo{
+  width: 20%;
+  height: 20%;
+  margin-left: 24px;
+  padding:-13px;
+  margin-bottom:15px;
+
+}
+
+hr{
+  border-top:2px solid #eee;
+}
+
+.portpic{
+  padding:30px;
+  padding-left: 21px;
+  padding-top:22px;
+}
+
+.portpic1{
+  padding:30px;
+  padding-top: 22px;
+  padding-left: 42px;
+}
+
+#mainform{
+   width: 100%;
+    padding: 12px 20px;
+    margin: -5px -13px;
+    box-sizing: border-box;
+    
+}
+.form{
+  width: 586px;
+    margin-left: 0px;
+    border: 1px solid #e4e4e4;
+    border-radius: 2px;
+    height: 25px;
+}
+
+#messages{
+  width: 586px;
+    height: 200px;
+    line-height: 26px;
+    margin-left: 0px;
+    border: 1px solid #e4e4e4;
+    border-radius: 2px;
+}
+
+#submitter{
+  background-color:#4aaaa5;
+  border:none;
+  color:#FDFDFD;
+  padding:16px 32px;
+  text-decoration:none;
+  margin:4px 2px;
+  cursor:pointer;
+}
